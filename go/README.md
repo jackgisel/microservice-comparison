@@ -2,5 +2,5 @@
 
 ### Tech
 
-- (Fiber)[https://docs.gofiber.io/] web server
-- (Gorm)[https://gorm.io/] ORM
+- [Fiber](https://docs.gofiber.io/) - web server
+- [Gorm](https://gorm.io/) - ORM

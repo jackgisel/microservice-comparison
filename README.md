@@ -2,12 +2,12 @@
 
 ### Langauges
 
-#### Completed
+##### Completed
 
 - Go
 - Javascript
 
-##### Up Next
+###### Up Next
 
 - Kotlin
 - Python
@@ -17,4 +17,4 @@
 
 - REST & GraphQL
 - Postgres as the DB
-- Deployed to (Fly)[https://fly.io/]
+- Deployed to [Fly](https://fly.io/)
